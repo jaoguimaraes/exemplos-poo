@@ -1,4 +1,6 @@
-//a classe MSNMessenger é ou reprenta
+package apps;
+
+//a classe apps.MSNMessenger é ou reprenta
 public abstract class ServicoMensagemInstantanea {
     public abstract void enviarMensagem();
     public abstract void receberMensagem();
