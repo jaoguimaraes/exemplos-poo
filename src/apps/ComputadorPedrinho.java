@@ -1,3 +1,5 @@
+package apps;
+
 import apps.FacebookMessenger;
 import apps.ServicoMensagemInstantanea;
 

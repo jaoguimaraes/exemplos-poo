@@ -1,7 +1,5 @@
 package apps;
 
-import apps.ServicoMensagemInstantanea;
-
 public class MSNMessenger extends ServicoMensagemInstantanea {
     @Override
     public void enviarMensagem() {

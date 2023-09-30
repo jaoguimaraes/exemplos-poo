@@ -1,7 +1,4 @@
 package apps;
-
-import apps.ServicoMensagemInstantanea;
-
 public class Telegram extends ServicoMensagemInstantanea {
     @Override
     public void enviarMensagem() {
