@@ -1,3 +1,5 @@
+package exemplos;
+
 public abstract class Veiculo {
     private String chassi;
     public String getChassi() {
